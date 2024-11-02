@@ -42,7 +42,7 @@
 Set All Environmental variables before deploy. -  [Instructions](#-configuring-environments)
 
 [![Deploy with heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kamenkadze/testact)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/xAf8hY?referralCode=jC4ZQ_)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
